@@ -1,0 +1,5 @@
+div, table{
+    border: 1px solid black;
+    transition: 500ms;
+    transform: rotate(45deg);
+}
