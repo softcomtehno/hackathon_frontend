@@ -17,7 +17,7 @@ const Organization = () => {
       >
         Организаторы Хакатона
       </Typography>
-      <div className="flex md:flex-row flex-col mx-auto w-[1200px]">
+      <div className="flex md:flex-row flex-col mx-auto ">
         <Card className="w-[350px] mx-auto hover:shadow-lg transition-shadow duration-300 bg-white">
           <CardContent className="text-center ">
             <img src="/ourteam.jpg" alt="" className="w-[500px] h-[200px]  object-cover mx-auto " />

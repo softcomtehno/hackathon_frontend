@@ -12,7 +12,6 @@ const Program = () => {
           Программа Хакатона
         </Typography>
       </div>
-
       <Box className="relative mb-16 max-w-full lg:w-[800px] mx-auto">
         <Typography variant="h5" className=" mb-4 font-serif">
           День 1 – Понедельник, 10 Марта 2025 года
@@ -61,7 +60,7 @@ const Program = () => {
               time: '11:00 – 11:30',
               title: 'Спикер: Кыдырмышев Акай',
               description:
-                'Middle Back-end Developer at Our Era Team, ',
+                'Middle Back-end Developer at Our Era Team, <br/> Тема:"Самый важный ресурс..." ',
             },
             {
               time: '11:30 – 12:00',
@@ -125,19 +124,19 @@ const Program = () => {
             },
             {
               time: '10:00 – 10:30',
-              title: 'Спикер: Амирхан',
+              title: 'Ментор: Амирхан',
               description:
-                '',
+                'Junior Front-end Developer, </br> Тема:"Как быстро вести Front-end разработку?"',
             },
             {
               time: '10:30 – 11:00',
-              title: 'Спикер: Омурзаков Канат',
+              title: 'Ментор: Омурзаков Канат',
               description:
-                '',
+                'Преподаватель по маркетингу',
             },
             {
               time: '11:30 – 12:00',
-              title: 'Спикер: Зарипбеков Тилек',
+              title: 'Ментор: Зарипбеков Тилек',
               description:
                 'Junior Back-end Developer',
             },

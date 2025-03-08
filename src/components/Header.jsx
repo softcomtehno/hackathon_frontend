@@ -19,7 +19,7 @@ const Header = () => {
             </Typography>
           </Box>
           <Box className="header_box">
-            <a href='https://docs.google.com/forms/d/e/1FAIpQLSdGLmR24p2q-5SSSV0DW7rozLrhAlQ8XJJXMnaE0gvSiOakqQ/viewform?usp=header' className="py-[10px] px-[32px] shadow-none bg-primary text-black/60 font-semibold">
+            <a href='https://docs.google.com/forms/d/e/1FAIpQLSdGLmR24p2q-5SSSV0DW7rozLrhAlQ8XJJXMnaE0gvSiOakqQ/viewform?usp=header' className="py-[10px]  shadow-md rounded-md px-[32px]  bg-primary text-black/50 font-bold">
               Регистрация
             </a>
           </Box>

@@ -8,7 +8,7 @@ import Schedule from '../components/Schedule';
 import Program from '../components/Program';
 import Organization from '../components/Organizators';
 import { StyledEngineProvider } from '@mui/material';
-import EvaluationSystem from "../components/CustomCard";
+import EvaluationSystem from '../components/CustomCard';
 const Home = () => {
   return (
     <>
@@ -21,7 +21,7 @@ const Home = () => {
         <Creteria />
         {/* <Mentors /> */}
         <Organization />
-   {/* <EvaluationSystem/> */}
+        {/* <EvaluationSystem/> */}
         <News />
         <Footer />
       </StyledEngineProvider>
