@@ -18,8 +18,8 @@ const Intro = () => {
           <p className="text-lg text-gray-700 font-sans leading-relaxed">
             BashtUp – хакатон для студентов 1-2 курсов колледжа Комтехно! За 48 часов ты превратишь идею в MVP, прокачаешь командную работу и получишь поддержку экспертов. Биз менен Башта! 🚀
           </p>
-          <a href='https://docs.google.com/forms/d/e/1FAIpQLSdGLmR24p2q-5SSSV0DW7rozLrhAlQ8XJJXMnaE0gvSiOakqQ/viewform?usp=header' className="py-[10px]  shadow-md rounded-md px-[32px]  bg-primary text-black/50 font-bold">
-              Регистрация
+          <a href='#program' className="py-[10px]  shadow-md rounded-md px-[32px]  bg-primary text-black/50 font-bold">
+              Программа
             </a>
         </div>
         <img 

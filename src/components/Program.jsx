@@ -2,7 +2,7 @@ import { Box, Typography, Paper, Divider } from '@mui/material';
 
 const Program = () => {
   return (
-    <Box className="md:p-6 p-3 bg-gray-100 min-h-screen">
+    <Box id="program" className="md:p-6 p-3 bg-gray-100 min-h-screen">
       <div className="flex flex-col items-center mb-8">
         <Typography
           variant="h4"

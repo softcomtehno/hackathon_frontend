@@ -2,8 +2,7 @@ import { Card } from '@mui/material';
 
 const Creteria = () => {
   return (
-
-    <section className="container my-20">
+    <section  className="container my-20">
       <div className="text-center">
         <h2 className="font-serif text-2xl font-bold text-gray-800 mb-2">
           Критерии защиты проектов
@@ -16,7 +15,7 @@ const Creteria = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         <Card className="p-5 shadow-lg rounded-lg transition-transform transform hover:scale-105">
           <h3 className="font-serif text-[18px] font-semibold text-primary  mb-4 text-center">
-            Идея (20 баллов)
+            Идея (30 баллов)
           </h3>
           <p className="text-gray-700 text-[14px] font-medium">
             Оригинальность и инновационность идеи. <br />
@@ -27,7 +26,7 @@ const Creteria = () => {
 
         <Card className="p-5 shadow-lg rounded-lg transition-transform transform hover:scale-105">
           <h3 className="font-serif text-[18px] font-semibold text-primary mb-4 text-center">
-            Реализация (30 баллов)
+            Прототип (20 баллов)
           </h3>
           <p className="text-gray-700 text-[14px] font-medium">
             Функциональность продукта. <br />

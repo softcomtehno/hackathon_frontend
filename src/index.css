@@ -3,6 +3,9 @@
 @tailwind utilities;
 
 
+:root{
+  scroll-behavior: smooth;
+}
 
 .intro {
   min-height: 450px;
