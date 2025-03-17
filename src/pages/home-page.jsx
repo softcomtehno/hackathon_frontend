@@ -20,7 +20,7 @@ const Home = () => {
         <Program />
         <Creteria />
         {/* <Mentors /> */}
-        {/* <Organization /> */}
+        <Organization />
         {/* <EvaluationSystem/> */}
         <News />
         <Footer />
