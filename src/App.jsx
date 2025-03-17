@@ -4,6 +4,9 @@ import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import { Register } from './pages/register-page';
 
+
+
+
 const App = () => {
   return (
     <Router>
