@@ -16,7 +16,7 @@ export default {
         'xl-max': { max: '1440px' },
       },
       colors: {
-        primary: '#ffc30f',
+        primary: '#0d9488',
       },
       container: {
         center: true,

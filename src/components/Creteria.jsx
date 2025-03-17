@@ -15,59 +15,50 @@ const Creteria = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         <Card className="p-5 shadow-lg rounded-lg transition-transform transform hover:scale-105">
           <h3 className="font-serif text-[18px] font-semibold text-primary  mb-4 text-center">
-            Идея (30 баллов)
+            Оригинальность идеи (0–10 баллов)
           </h3>
           <p className="text-gray-700 text-[14px] font-medium">
-            Оригинальность и инновационность идеи. <br />
-            Соответствие теме хакатона. <br />
-            Потенциал проекта для устойчивого развития города.
+            Оценка уникальности и инновационности предложенной идеи.
           </p>
         </Card>
 
         <Card className="p-5 shadow-lg rounded-lg transition-transform transform hover:scale-105">
           <h3 className="font-serif text-[18px] font-semibold text-primary mb-4 text-center">
-            Прототип (20 баллов)
+            Реалистичность (0–10 баллов)
           </h3>
           <p className="text-gray-700 text-[14px] font-medium">
-            Функциональность продукта. <br />
-            Качество технической реализации. <br />
-            Удобство интерфейса и дизайн.
+            Оценка осуществимости идеи в реальных условиях.
           </p>
         </Card>
 
         <Card className="p-5 shadow-lg rounded-lg transition-transform transform hover:scale-105">
           <h3 className="font-serif text-[18px] font-semibold text-primary mb-4 text-center">
-            Презентация (20 баллов)
+            Презентация и ораторские навыки (0–10 баллов)
           </h3>
           <p className="text-gray-700 text-[14px] font-medium">
-            Ясность и структурированность. <br />
-            Убедительность аргументов. <br />
-            Профессионализм команды в подаче материала.
+            Ясность и структурированность презентации, а также ораторские способности команды.
           </p>
         </Card>
 
         <Card className="p-5 shadow-lg rounded-lg transition-transform transform hover:scale-105">
           <h3 className="font-serif text-[18px] font-semibold text-primary mb-4 text-center">
-            Потенциал дальнейшего развития (20 баллов)
+            Ответы на вопросы (0–10 баллов)
           </h3>
           <p className="text-gray-700 text-[14px] font-medium">
-            Реализуемость проекта. <br />
-            Масштабируемость на другие города или области.
+            Способность отвечать на вопросы, уверенность и аргументированность.
           </p>
         </Card>
 
         <Card className="p-5 shadow-lg rounded-lg transition-transform transform hover:scale-105">
           <h3 className="font-serif text-[18px] font-semibold text-primary mb-4 text-center">
-            Командная работа (10 баллов)
+            Вовлечение аудитории (0–5 баллов)
           </h3>
           <p className="text-gray-700 text-[14px] font-medium">
-            Сотрудничество и распределение ролей. <br />
-            Эффективность работы в команде.
+            Способность команды вовлечь и удержать внимание аудитории.
           </p>
         </Card>
       </div>
     </section>
-
   );
 };
 
