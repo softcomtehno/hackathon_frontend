@@ -16,9 +16,9 @@ const Home = () => {
         <Header />
         <Intro />
         <Schedule />
-        <Advantages />
+        {/* <Advantages /> */}
         <Program />
-        <Creteria />
+        {/* <Creteria /> */}
         {/* <Mentors /> */}
         <Organization />
         {/* <EvaluationSystem/> */}
