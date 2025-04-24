@@ -10,10 +10,7 @@ const HackathonDescription = () => {
           variant="h4"
           className="text-center font-semibold mb-4 text-primary"
         >
-          🏫 Тема хакатона:{' '}
-          <span className="text-indigo">
-            Школьники — директора идеального колледжа
-          </span>
+CreativTaimash: стартап-идеи для колледжа будущего
         </Typography>
 
         <Grid container spacing={3}>
